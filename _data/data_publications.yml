@@ -1,100 +1,24 @@
 year: 2025 items:
-
-title: "Academic Performance (GPA) Prediction via AI Behavioral Features of University Students" 
-authors: "Sakchhi Paudel; Thet Su Sann; Kimsong Tang; Amulya Bhattarai; Pornchanok Vanich" 
-affiliation: "Department of Electrical and Computer Engineering (ECE), Assumption University, Samut Prakarn, Thailand" 
-venue: "5th Asia Education Technology Symposium (AETS) — Nov. 2025, Macau, China" 
+title: "Academic Performance (GPA) Prediction via AI Behavioral Features of University Students"
+authors: "Sakchhi Paudel; Thet Su Sann; Kimsong Tang; Amulya Bhattarai; Pornchanok Vanich"
+affiliation: "Department of Electrical and Computer Engineering (ECE), Assumption University, Samut Prakarn, Thailand"
+venue: "5th Asia Education Technology Symposium (AETS) — Nov. 2025, Macau, China"
 url: "https://link.springer.com/chapter/10.1007/978-981-95-8824-4_10"
 
-title: "Self-Balancing Quadcopter with PID Controller in One Dimensional (Vertical) Movement" 
-authors: "Kavipat Liawpairoj; Monyneath Ros; Amulya Bhattarai; Warongkidh Ganchnasopa" 
-affiliation: "Vincent Mary School of Engineering, Sciences and Technology, Assumption University, Samut Prakarn, Thailand" 
-venue: "ICPEI 2025, Pattaya, Thailand" 
+title: "Self-Balancing Quadcopter with PID Controller in One Dimensional (Vertical) Movement"
+authors: "Kavipat Liawpairoj; Monyneath Ros; Amulya Bhattarai; Warongkidh Ganchnasopa"
+affiliation: "Vincent Mary School of Engineering, Sciences and Technology, Assumption University, Samut Prakarn, Thailand"
+venue: "ICPEI 2025, Pattaya, Thailand"
 url: "https://ieeexplore.ieee.org/document/11282692"
 
 title: "Indoor Localization using WiFi (ESP32) and Arduino"
-authors: "Tanagon Senson (1), Kritakan Junhirun (2), Sneha Paudel (3), Ushik Shrestha Khwakhali (4) and Amulya Bhattarai (5)"
+authors: "Tanagon Senson; Kritakan Junhirun; Sneha Paudel; Ushik Shrestha Khwakhali; Amulya Bhattarai"
 affiliation: "AU-VMES Thailand (1,2,3), RMIT Univ. Vietnam (4), SSES Kathmandu, Nepal (5)"
-venue: "The International Conference on Power, Energy and Innovations (ICPEI) - 2025, Pattaya, Thailand"
+venue: "ICPEI 2025, Pattaya, Thailand"
 url: "https://ieeexplore.ieee.org/document/11282785"
 
 title: "AI - Assisted Object Detection System for Security Purposes in Educational Facilities using Python and Computer Vision (CV) Libraries"
-authors: "Tshikala, N’Zi Ngenda, Eusaoad, Bhattarai and Habib"
+authors: "Tshikala; N’Zi Ngenda; Eusaoad; Bhattarai; Habib"
 affiliation: "Department of Electrical and Computer Engineering, Assumption University, Samut Prakarn, Thailand"
-venue: "21st National Conference on Engineering Education, Future of Engineering Education with AI,  NCEE21 - 2025, Hua Hin, Thailand"
-url: "https://cmu.to/WmNhK page 34-40"
-
-year: 2024 items:
-title: "Artificial Intelligence with hands-on exercises: maze-solver, crawling robot and emotion recognition"
-authors: "Pongsiri Huang, Amulya Bhattarai, Anand Dersingh"
-affiliation: "Department of Electrical and Computer Engineering, Assumption University, Samut Prakarn, Thailand"
-venue: "9th International STEM Education Conference (iSTEM-Ed), Cha-am, Hua Hin, Thailand, 2024"
-url: "https://ieeexplore.ieee.org/document/10663137"
-
-title:	"Optimization of Electricity Consumption via Peak Time Reallocation: MATLAB Simulation and Arduino based Lab Implementation"
-authors: "Saharat Kanchanakorn, Monyneath ROS, Amulya Bhattarai, Ushik Shrestha Khwakhali"
-affiliation: "Department of Electrical and Computer Engineering, Assumption University, Samut Prakarn, Thailand"
-venue: "9th International STEM Education Conference (iSTEM-Ed), Cha-am, Hua Hin, Thailand, 2024"
-url: "https://ieeexplore.ieee.org/document/10663093"
-
-year: 2023 items:
-title: "Analysis of Image Pattern Classification using Hopfield Network on Letters and Thai Banknotes via MATLAB Implementation"
-authors: "Ushik Shrestha Khwakhali, Amulya Bhattarai, Chinarom Hannarong, and Siyu Deng"
-affiliation: "Vincent Mary School of Engineering, Assumption University, Samut Prakarn, Thailand"
-venue: "15th International Conference on Digital Image Processing (ICDIP '23), China" 
-url: "https://dl.acm.org/doi/10.1145/3604078.3604148"
-
-year: 2021 items:
-title: "Material Identification via Wireless System (Lime SDR Mini) using Pattern Classification"
-authors: "Amulya Bhattarai, Ushik Shrestha Khwakhali, Sneha Paudel and Domingos Da Costa"
-affiliation: "School of Engineering, Assumption University, Samutprakhan, Thailand"
-venue: "IEEE International Conference on Electrical Engineering/Electronics, Computer, Telecommunications and Information Technology (ECTI-CON), Chiang Mai, Thailand"
-url: "https://ieeexplore.ieee.org/document/9454884"
-
-year: 2020 items: 
-title: "Channel Allocation Policy for Distributed Wireless Network: Derivation and Analysis of Optimal Interference"
-authors: "Amulya Bhattarai, Prapun Suksompong and Chalie Charoenlarpnopparut"
-affiliation: "ICT, SIIT, Thammasat University, Pathum Thani, Thailand"
-venue: "Wireless Communications and Mobile Computing, Wiley - Online Library, John Wiley & Sons Inc. USA"
-url: "https://onlinelibrary.wiley.com/doi/10.1155/2020/8868443"
-
-title: "Antenna Parameters Analysis of Patch Arrays at 2.4GHz Using ADS and TTR500 VNA"
-authors: "Amulya Bhattarai, Ushik Shrestha Khwakhali, Sneha Paudel, Nang Kang Hom and Fang Yang"
-affiliation: "School of Engineering, Assumption University, Samutprakhan, Thailand"
-venue: "Information Communication Technologies Conference (ICTC), Nanjing, China"
-url: "https://ieeexplore.ieee.org/document/9123257"
-
-year: 2017 items:
-title: "Counter-Intuitive Channel Allocation Improvement in Distributed Cognitive Radio Networks by Adding Optimal Interference in User’s Utility"
-authors: "Amulya Bhattarai, Prapun Suksompong, Chalie Charoenlarpnopparut and Patrachart Komolkiti"
-affiliation: "School of Engineering, Assumption University, Samutprakhan, Thailand"
-venue: "IEEE Annual Consumer Communications and Networking Conference (CCNC), Las Vegas, U.S.A."
-url: "https://ieeexplore.ieee.org/document/7983109"
-
-year: 2016 items:
-title: "Policies for Channel Allocation in Cognitive Radio Networks using Game Theory"
-Authors: "Amulya Bhattarai, Chalie Charoenlarpnopparut, Prapun Suksompong and Patrachart Komolkiti"
-affiliation: "ICT, SIIT, Thammasat University, Pathum Thani, Thailand"
-venue: "The ECTI Transactions on Electrical Engineering, Electronics and Communications, ECTI-EEC, Thailand"
-url: "https://ph02.tci-thaijo.org/index.php/ECTI-EEC/article/view/171090"
-
-year: 2014 items: 
-title: "Developing policies for channel allocation in Cognitive Radio Networks using Game Theory"
-authors: "Amulya Bhattarai, Chalie Charoenlarpnopparut, Prapun Suksompong and Patrachart Komolkiti"
-affiliation: "ICT, SIIT, Thammasat University, Pathum Thani 12000, Thailand and	School of Engineering, Assumption University, Samutprakhan, Thailand"
-venue: "International Conference on Electrical Engineering/Electronics, Computer, Telecommunications and Information Technology (ECTI-CON), Nakhon Ratchasima, Thailand"
-url: "https://ieeexplore.ieee.org/document/6839829"
-
-year: 2013 items: 
-title: "Improved bandwidth allocation in Cognitive Radio Networks based on game theory"
-authors: "Amulya Bhattarai, Patrachart Komolkiti and Chaodit Aswakul"
-affiliation: "School of Engineering, Assumption University, Samutprakhan, Thailand and Department of Electrical Engineering, Chulalongkorn University, Bangkok, Thailand"
-venue: "International Conference on Electrical Engineering/Electronics, Computer, Telecommunications and Information Technology (ECTI-CON), Krabi, Thailand"
-url: "https://ieeexplore.ieee.org/document/6559481"
-
-year: 2009 items:
-title: "Pattern Matching by Optimizing Load in a Reflect-array Antenna"
-authors: "Amulya Bhattarai and Jon Wallace"
-affiliation: "School of Engineering, Assumption University, Samutprakhan, Thailand and Department of Electrical Engineering, Jacobs University, Bremen, Germany"
-venue: "IEEE International Symposium on Microwave, Antenna, Propagation and EMC Technologies for Wireless Communications, Beijing, China".
-url: "https://ieeexplore.ieee.org/document/5355538"
+venue: "NCEE21 - 2025, Hua Hin, Thailand"
+url: "https://cmu.to/WmNhK"
